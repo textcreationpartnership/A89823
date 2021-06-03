@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All vain janglers, imitatours and licentious persons, shut out of the Scriptures who are not guided by the same spirit that gave them forth. The old serpents voice, or Antichrist discovered opposing Christ in his kingdome. By one who desires the redemption of souls out of Sathans wiles, James Nayler.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89823</idno><idno type="EEBO-CITATION">99862550</idno>
+  <idno type="VID">114713</idno>
+  <idno type="EEBO-PROQUEST">2240938908</idno>
+  
+            <idno type="STC">Wing N257</idno>
+            <idno type="STC">Thomason E735_13</idno>
+            <idno type="STC">ESTC R202154</idno>
+            <idno type="PROQUEST">99862550</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862550e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114713)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E735[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All vain janglers, imitatours and licentious persons, shut out of the Scriptures who are not guided by the same spirit that gave them forth. The old serpents voice, or Antichrist discovered opposing Christ in his kingdome. By one who desires the redemption of souls out of Sathans wiles, James Nayler.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In this edition the first line of title ends: shut out.</note>
+                  <note>Annotation on Thomason copy: "may 18th 1654.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:114713:1"/>
+            <pb n="1" facs="tcp:114713:1"/>
+            <head>All vain janglers, imitatours and licentious persons, shut out of the Scriptures who are not guided by the same spirit that gave them forth.</head>
+            <div type="part">
+               <head>The old Serpents voice, or Antichrist disco<g ref="char:EOLhyphen"/>vered opposing Christ in his kingdome.</head>
+               <byline>By one who desires the redemption of Souls out of Sathans wiles, <hi>JAMES NAYLER.</hi>
+               </byline>
+               <p>
+                  <seg rend="decorInit">C</seg>Ease your vain janglings, you that take the Sriptures to con<g ref="char:EOLhyphen"/>tend with against the truth, but live in your lusts; with a vain mind do you contend, about the scriptures and saints con<g ref="char:EOLhyphen"/>ditions, but you have nought to do with them, you unholy ones; for holy men of God spoke them forth, as they were mo<g ref="char:EOLhyphen"/>ved by the holy Ghost, and the kingdome of God consists not in words, but in power; now all you who talk of the scriptures, and saints conditions, but live not in them, you are shut out of the scriptures and kingdome of God, and are in the kingdomes of the world, whose kingdome is in words, but not in life and power, who saith, and doth not. You have long covered your selves by talking of the scriptures and professing other mens conditions, but now the truth is appeared, and your deceit is laid open, and your covers are too narrow; for words can no longer hide you, for the righteous Judge is risen to reward every one after their works, and not after their words, and you workers of iniquity of all sorts, you are shut out of scriptures and kingdome of God, you that live in your hearts lusts, and in your own wills, what have you in the scriptures? for no prophesie of old ever came by the will of man, but they witnesse against all, who are guided by their own wills. And you unholy ones, what have you in the scriptures, they belong not to you, for they were holy men that spoke them forth. And you that are led by your car<g ref="char:EOLhyphen"/>nall wisdome, and reason, and not by the movings of the holy Ghost, what have you in the scriptures, for they were given forth by the movings of the holy Ghost, and they condemn you and your wayes, who are not guided by the same spirit that gave them forth. And you who take them to plead for sinne, and live in it, what have you to do in the scriptures, who use them quite contrary to the end for which they were given forth, for they were given forth by holy men, from the holy spirit for holy ends, and they condemn you and your practise, and you are shut out of them, who would use them to uphold the devils kingdome, and your own lusts. You envious scorners, backbiters, and false accusers, you are shut out of the scriptures, and they condemn you. Swearers, and lyars, the scriptures hath shut you out, and by them you are condemned. You drunkards, gluttons, whoremongers, and unclean persons, what have you to do to talk of the scri<g ref="char:EOLhyphen"/>ptures, which holy men gave forth, they witnesse against your filthy practises.
+<pb n="2" facs="tcp:114713:2"/> You covetous and proud oppressours, you are raced out of the scriptures, and saints conditions, and are found amongst the heathen. You fighters, quarrellars, and violent persons, who live in strife and contention, suing one another for car<g ref="char:EOLhyphen"/>nall things, you are condemned by the Scriptures and shut out of them. You wanton lustfull ones, who live to the flesh in your sports and pleasures, you are witnessed against by the scriptures, and have no right in them. And you hipo<g ref="char:EOLhyphen"/>criticall professours of all sorts and formes, who have got the saints words and worships, in notion and form, but live not the life of saints, nor are led by that spi<g ref="char:EOLhyphen"/>rit that gave forth the scriptures, and by which the saints were guided and sanctifi<g ref="char:EOLhyphen"/>ed, you have nought to do with the scriptures, they were not given out to imitate and jangle upon, but to be fulfilled: not to talk on, and live in the worlds wayes, words and customes, and fashions, in your own wills, lusts and pleasures, for they that spoke them forth were come out of the world, and did witnesse against all the wayes and worships of it, and they spoke not other mens words from the letter, as you do, nor did they imitate other mens practise, but by the eternall spirit were they guided into the spirituall worship, and by that spirit did they speak forth the scripture; not to the world or formal professours, but to such as had denyed the world, and had given themselves up to be guided by the holy spirit, in holy wayes: and they spoke their own conditions, and their own measures holding forth to o<g ref="char:EOLhyphen"/>thers what they had received of God, and not what others had received, and their kingdome stood not in words, but in power, and here are you shut out of the scri<g ref="char:EOLhyphen"/>ptures and their conditions, who say and do not, and your kingdome is in words, and not in life and power, you hypocrites and formall imitaters, who worship by what you imagine and conceive from other mens words, but have it not from the same spirit that they had. You are shut out of the scriptures, and they witnesse a<g ref="char:EOLhyphen"/>gainst you and your imagined wayes and worships, you that preach and pray, and not by the movings of the spirit of God, you are shut out of the scriptures, and your invented words and long prayers are condemned by them to be heathenish, and all your ordinances your singings and sacraments, which are not in the same spirit, is condemned by the scriptures, and whatever you do in your worships to God, and not in the power and guiding of the same eternall spirit, the scriptures witnesse a<g ref="char:EOLhyphen"/>gainst you and your worship, and declares you to be led by a contrary spirit, which is not the same, and you are among the heathen who worship in vain, and re<g ref="char:EOLhyphen"/>ceives no acceptance from God; for you receive for doctrines, the commandments of men &amp; your fear towards God, is taught by the precepts of men, &amp; not by the Spirit, &amp; what you have is by tradition; and here you are shut out of the scriptures. Where<g ref="char:EOLhyphen"/>fore cease your tattling of other mens conditions, in the scriptures, and see what right your selves have in them, and mind to see what you are, and not what the sa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts were, and apply your own conditions and promises to your selves, and not other mens. And cease your stealing, you theeves, that have sound out other wayes to climb up, and not in at the door, by which the saints have alwayes entred, for all that come in at the door witnesse against you, and your stollen words and formes; and by that spirit that leads in at the door are you discovered to be theeves, and judgement is coming against you, and you shall restore four fold for all you have stollen, and shall be brought to poverty for all your riches, and you first shall be last of all.</p>
+               <p>And you hirelings, and Parish Maisters, who bear rule by your meanes over your hearers, what have you to do to talk of the scriptures, as to declare the sta<g ref="char:EOLhyphen"/>tutes
+<pb n="3" facs="tcp:114713:2"/> of the Almighty, since you hate to be reformed, or to come into their con<g ref="char:EOLhyphen"/>dition that gave them forth, you trade in the letter for gain, but are not conformable to them that spoke it forth, It was not given forth by any that made a gain of it, for carnall ends, to get riches, no, they that gave it forth bare witnesse against your generation, to be hirelings, covetous, proud boasters, greedy dumbe dogs, Idol shepherds, that could never have enough belly gods, such whose teach<g ref="char:EOLhyphen"/>ings never brought any to the knowledge of the truth. Ravening wolves in sheeps clothing, who had the form but not the power; now what have you to do with the scriptures or saints conditions, to talk them over to people for money, you are shut out of the scriptures: Cease your stealing that which was other mens, and take your own in the scriptures, which are the woes and plagues pronounced against your generation, by them who gave forth the scripture, and sell that to your hea<g ref="char:EOLhyphen"/>rers: for the saints conditions you are strangers to, and you have no inheritance in them, but are found without, amongst them who professed the letter, but were enemies to that spirit that gave it forth, and you are found doing the same works now, stirring up the powers of the earth against them in whom that spirit is mani<g ref="char:EOLhyphen"/>fest, as did your fathers, so do you, and fill up their measure, that upon you may come the sufferings of all the holy men of God: And here you are shut out of the scri<g ref="char:EOLhyphen"/>ptures, and are ignorant of the spirit that gave them forth, and the ends for which they were written; and you take those promises that were given to holy men, and you apply them to such as live in their filthinesse: and those scriptures that were written to warn people from sin, you take and wrest to make people believe that they shall never be set free from sin while they live, and thus being ignorant of that spirit that gave forth the scriptures, you are led by a contrary spirit, and so contradict the holy spirit; and God in wisdome hath hid the mistery of the scri<g ref="char:EOLhyphen"/>pture from that spirit that acts in you, and hath shut it out, and you with it. And hence it is that when you meddle with the scriptures you are in such confusion, and sets one scripture against another, and then twine and wrest and adde to your own invented meanings to reconcile them again, but they who are guided by the same spirit that gave them forth, sees your folly, and that the scriptures are at unity, and so are all that come into them, to live the life of them in their measures, but you are without the life of them, and your kingdome stands in words and not in power, and therefore is confused, and you lead into confusion all that follows you. Wherefore all you who fear the Lord mind not words, but the power, and believe not men because they run rambling up and down the scriptures, but see what right they have in them, which is no more then they live the life of them; for while you follow these, you are kept out of the kingdome of God; and feed upon words and wind, but the kingdome of God consists not in words, but in power and life.</p>
+               <closer>
+                  <signed>J. N.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The old serpents voice, or Antichrist discovered, opposing Christ in his kingdome.</head>
+               <p>IAm the light of the world, <hi>saith Christ,</hi> he that followes me shall not walk in dark<g ref="char:EOLhyphen"/>nesse,<note place="margin">
+                     <hi>Jo.</hi> 8. 12.</note> but shall have the light of life, That is the true light which enlighteneth<note place="margin">
+                     <hi>Jo.</hi> 1. 9.</note> every one that cometh into the world.</p>
+               <p>Saith Antichrist, Christ is not the light of the world, nor doth he enlighten e<g ref="char:EOLhyphen"/>very
+<pb n="4" facs="tcp:114713:3"/> one that cometh into the world, for that light which lighteneth every one that cometh into the world is not the light of Christ, but is a naturall light, and is not sufficient to lead out of darknesse into the light of life.</p>
+               <p>Saith God, I give thee for a covenant to the people, for a light to the Gentiles,<note place="margin">
+                     <hi>Isa</hi> 42. 6. 7.</note> and to them that sit in darknesse, that thou mayest be my salvation to the ends of<note place="margin">
+                     <hi>Acts</hi> 13. 47.</note> the earth.</p>
+               <p>Saith Antichrist, the gentiles and they that sit in darknesse, have not the light of Christ given to them, nor doth this light reach for salvation to the ends of the earth, but only to such as have heard the Gospel, (which is the letter) and whom I have taught to understand the meaning of it by my study and learning.</p>
+               <p>Saith John, he that commits sin is of the devil, and for this purpose was the Son<note place="margin">1 <hi>John</hi> 3. 8.</note> of God manifest to destroy the works of the devil.</p>
+               <p>Saith Antichrist, you may commit sin and be of God, for sin (which is the work of the devil) is not to be destroyed in this world, but in the world to come, for all must have their failings while they are here.</p>
+               <p>Saith Paul, Christ gave himself for his Church, that he might sanctify and<note place="margin">
+                     <hi>Eph.</hi> 5. 25. 26. 27.</note> cleanse it, and present it to himself, a glorious Church without spot or wrinkle or any such thing, and that it should be holy without blemish.</p>
+               <p>Saith Antichrist, Thats blasphemy for any to witnesse such attainments in this world, that any should be holy glorious sanctified without spot or wrinkle or any such thing, for all must be subject to sin while they are here, and be made holy and glorious after death.</p>
+               <p>Saith Paul, Christ hath by one offering for ever perfected them that are sancti<g ref="char:EOLhyphen"/>fied,<note place="margin">
+                     <hi>Hebr.</hi> 10. 14.</note> and that we may present every man perfect in Christ Jesus, and for that end<note place="margin">
+                     <hi>Col.</hi> 1. 28.</note> did Christ beguist and send out his ministers for the perfecting the Saints, and to bring them up to his measure and fulnesse.</p>
+               <p>Saith Antichrist, Christ hath perfected none, nor ever shall any be made per<g ref="char:EOLhyphen"/>fect<note place="margin">
+                     <hi>Eph.</hi> 4. 11. 12 13</note> while they live, for perfection cannot be attained to, till after death in ano<g ref="char:EOLhyphen"/>ther world.</p>
+               <p>Saith John, he that saith he abideth in Christ, ought himself also so to walk<note place="margin">1 <hi>Jo</hi> 2. 6.</note>
+                  <note place="margin">1 <hi>John</hi> 4. 17.</note> even as he walked, herein we may have boldnesse in the day of judgement, because as he is so are we in this world, and as he which hath called you is holy, so be ye<note place="margin">1 <hi>Pet.</hi> 1. 15.</note> holy in all manner of conversation.</p>
+               <p>Saith Antichrist, That's blasphemy for any to witnesse that holinesse that was in Christ in any measure, for it's sufficient that he was holy in his own person before he ascended, and if you can but believe in that holinesse and professe it, though you never come to possesse it; ye't its sufficient to cover all your sins past, present, and to come, and it were high presumption for any to seek to be partakers of that holinesse that was in Christ, or to be like him, for he was the Son of God, and do you look to become sons of God, that were high presumption, for you must bear the image of the first Adam while you live in this world, and you must be conformable to the image of Christ in another world after death.</p>
+               <p>Saith Christ, God is a spirit, and he will be worshipped in spirit and in truth, for<note place="margin">
+                     <hi>Jo.</hi> 4. 21. 22. 23.</note> he seeks such to worship him. And you (that contend about places and formes)<note place="margin">
+                     <hi>Rom</hi> 10. 6, 7. 8.</note> worship you know not what, and saith <hi>Paul</hi> the word is <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gh in the heart within, and God whom you are to worship is within, and Christ the ordinance whom the<note place="margin">1 <hi>Cor.</hi> 3. 17.</note> Father hath ordained for the way to his worship, and of whom all the outward or<g ref="char:EOLhyphen"/>dinances were types, is within, and is the substance of all ordinances.</p>
+               <pb n="5" facs="tcp:114713:3"/>
+               <p>Saith Antichrist, you must come to the house of God to worship, which is the Church, for it's convenient and was builded for that purpose, and the Letter is the word in the Bible and not in the heart, and expounding and preaching this letter by the help of learning, and sprinkling infants, and singing Davids conditions in ryme and meetre putting off your hats when you sing these are the ordinances, and this is the worship which is without in forms and customes and not that which is within in spirit.</p>
+               <p>Saith Paul, you may all Prophesy one by one, that all may learn and all may be<note place="margin">1 <hi>Cor.</hi> 14. 30. 31, 32, 33.</note> comforted and if any thing be revealed to one that sits by, let the first hold his peace, for God is not the author of confusion, but of peace, and the Spirits of the Prophets are subject to the Prophets, as in all the Churches of the Saints.</p>
+               <p>Saith Antich: that was the order in the primitive times, but that prophesying is now ceased, and none shall now prophesy but such as are men of learning, and have been at the University, and have tongues and study to fit them for that purpose, and have received orders either from the Bishop, or are approved by some appointed by Authority, and these shall be Masters and beare rule in every Parish and none shall reprove or contradict what they say in publique nor speak any thing till they have done, (notwithstanding what ever be revealed to any that sits by) for we have a law and by that law all that do shall be imprisoned; and proceeded against as disturbers of the peace. And though it was the manner of Christ and his Apostles to<note place="margin">
+                     <hi>Acts</hi> 17. 2.</note> go into the Temple and Synagogues disputing and alleadging against them who held up outward formes of worship, and idols Temples, and thereby gathered peo<g ref="char:EOLhyphen"/>ple out from them into the inward worship in Spirit, proving that to be the worship of God and denying all other worships, yet these times are not as those were, for now people are all baptized and believers, and do professe Christ to be come, suf<g ref="char:EOLhyphen"/>fered and ascended, and what need any further, and we do not believe that any now have the same Spirit, that Christ and his Apostles had, nor the same Commands for they had an immediate call from God, which none now have, and thought they have never such a call, yet let them not troubleus in our devotion, but keep them with their own Disciples for we care for no such company, and we do not come at them, and therefore why should they trouble us and come to draw our hearers from us, and from that manner of worship we and our Fathers have lived in these many yeares, and they are ill suffered in the Nation to sow division between the people and their Ministers by telling of our tithes and set maintenance and that we ought to preach freely as the Apostles did, and thus they seek not onely our un<g ref="char:EOLhyphen"/>doing but our wifes and children after we be dead.</p>
+               <p>Saith God, I will make a new Covenant with you, &amp; you shall not teach one an<g ref="char:EOLhyphen"/>other<note place="margin">
+                     <hi>H<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b</hi> 8. 10. 11.</note> saying, know the Lord, for all shall know me from the least to the greatest, for I will write my law in their hearts, and put it in their inward parts, and they shall<note place="margin">
+                     <hi>Jo<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 6. 45.</note> be all taught of God.</p>
+               <p>Saith Antichrist, Your law is in the letter without, and not in the heart, neither shall any know God or his will, but by this rule, without in the letter, of which I am a teacher, and by my meanings and expositions of it, shall you come to know all that is to be known of God, and his will in this world, for the immediate teach<g ref="char:EOLhyphen"/>ings of God are ceased, and never any heard the voice of God since the Apostles, nor need any to look for it any more; for this teaching of mine is all the teaching that ever shall be, and it is to continue to the end of the world, and all that deny it, or to be ordered by it, are hereticks, and are not to be suffered to live in the world.</p>
+               <pb n="6" facs="tcp:114713:4"/>
+               <p>Saith Christ, Call no man Master upon Earth, neither be ye called Master, for<note place="margin">
+                     <hi>M<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> 23. 8 10 11</note> one is your Master, even Christ, and you are all brethren; and if any man will be greatest among you, let him be servant to all, for it is the heathen that Exercise Authority, but with you it shall not be so.</p>
+               <p>Saith Antichrist, That was spoken concerning the pride of the Pharises, but you may call me Master, for I do not delight in it in pride, yet its fit there should be distinctions of persons amongst men, for thereby are people governed, and its the fashion of the Countrey, and hereby you shew your breeding and manners, and though God did forbid us to bow to, or worship any but himself alone, or to have the faith of Christ in respect of persons for their pride or riches, yet this is not as<note place="margin">
+                     <hi>J<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m</hi> 2 10. 10</note> theirs was, for this is but a civil respect in our bowing and worshiping, and it's but to differ them that are rich from the poor, &amp; how can they bear rule without it and it's decent, and of a good report in the world, and the custome of the Nation, and it's a reproch for any to deny it, and as for religion and obedience to God, it consists not in such tr<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>viall things as these are, that may be done or undone.</p>
+               <p>Saith God, thou shalt not covet, and covetousnesse let it not be once named a<g ref="char:EOLhyphen"/>mongst<note place="margin">
+                     <hi>Eph.</hi> 5 3.</note> you, as becometh Saints, for it is Idolatry, and let your conversation be<note place="margin">
+                     <hi>Col</hi> 3. 5.</note> without covetousnesse, and be content with such things as you have, for he hath<note place="margin">
+                     <hi>Hebr.</hi> 13. 5.</note> said, I will never leave thee nor for sake thee.</p>
+               <p>Saith Antichrist, Thou must live by thy wits that God hath given thee, and this is not covetousnesse, but a provident care, and he that will not provide for his family is worse then an Infidel, and if thou stand to wait upon God, and do not help thy self by thy wits, both thou and thine may be poor enough, therefore first lay up for thy self and children that you need not fear want, and then take thy rest, and thou maist have time to serve God, and thy riches need not hinder thee, but further thee in his service.</p>
+               <p>Saith Christ, No man knows the Father but the Son, and he to whom the Son<note place="margin">
+                     <hi>Matt.</hi> 11. 25 27.</note> reveals him; and I thank thee, Oh Father, that thou hast hid these things from the wife and prudent, and revealed them to babes.</p>
+               <p>Saith Antichrist, that was in the time of Christ and his Apostles, and then none knew the Father nor the things of the kingdome of God, but by revelation, but now all revelations are come to an end, &amp; none need to look for them any more, for it is now onely they that have wisdome, prudence, and learning, that know God and the things of his kingdome, as much as is to be known in these dayes, and all that would be wise or religious, or would know any more then their neighbours, must come to them to learn, for they have Books, and Studies, and the judgement of ancient Fathers and Philosophers how they came to know the things of God, and these are more like to know God and his secrets, then babes and fools.</p>
+               <p>Saith Christ, The harvest is great, but the labourers are few, pray therefore the<note place="margin">
+                     <hi>Matt.</hi> 9 37. 38.</note> Lord of the vineyard, that he may send forth labourers into his vineyard.</p>
+               <p>Saith Antichrist, That was in the primitive times, when there was but few belee<g ref="char:EOLhyphen"/>ved, &amp; then there was no Christian Magistrate to take care for propagating the Go<g ref="char:EOLhyphen"/>spel, &amp; then they had their immediate call from God himself, &amp; they heard his voice, and left all and followed Christ, and had their Commission from God, and needed none from men; but what a vain thing were it to look for such a call now as is imme<g ref="char:EOLhyphen"/>diate, that were to look for a Miracle, but there is a mediate call now, by which all are called by Commission from men, and such are called, as are found fitted for that purpose, and have learning, and are able to answer schooll questions, and have Lo<g ref="char:EOLhyphen"/>gick,
+<pb n="7" facs="tcp:114713:4"/> and Philosophy, and can dispute, and resolve doubts and questions, and they to whom God hath given all the power now, think it not fit to choose or suffer such as God and Christ did choose, as fishermen, herdsmen, and ploughmen, and such like, who have not learning, and the originall tongues, for when God did choose such in oltime, he furnished them with his own Spirit instead of learning, bu<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what a ridiculous thing would it be to look for such guists now, when all are beleevers, &amp; here are so many learned men in the Nation to choose out of, &amp; there is no need of such extraordinary calls or guists in these times as was then, for when Christ as<g ref="char:EOLhyphen"/>cended he gave guifts unto men, and appointed officers, and left it to them to ap<g ref="char:EOLhyphen"/>point others, and so one to ordain another to the end of the world, &amp; he himself is set down at the right hand of God in heaven, and meddles not with it, and so the Apostles made Bishops, and the Bishops became Popes, and the Popes made Car<g ref="char:EOLhyphen"/>dinalls, and they inferiour Bishops, and those became Lord Bishops, and they made Parsons, Viccars, Curats, and they are now become Ministers, Pastors, Teachers, and so my Ministers can derive their Ordination by succession from the Apostles, &amp; what matter is it for the errors of the Pope and Bishops that's not as they were Ministers, but men.</p>
+               <p>Saith Christ to his Ministers, freely you have received, freely give, make no<note place="margin">
+                     <hi>Mat.</hi> 10. 8, 9. 10.</note> provision for your journey, neither take thought what to eat or drink, or what to<note place="margin">
+                     <hi>Luke</hi> 12. 22. 23, 29, 30.</note> put on, for the life is more then food and the body more then raiment, and your heavenly farther knows what ye stand in need of, and the workman is worthy of his meat.</p>
+               <p>Saith Antichrist, it's true, they that rceived freely might well preach freely, but those free gifts are now ceased, and none come now to the Ministery so easily, but are at great charg, they or their friends, in learning at Schooles and Universities, and if they must when they have been at all that cost preach freely, then who will bring up any to be Ministers? and now they come to the knowledge of the Mystery of Godlinesse by much study, and they must have abundance of books, and all this cannot be done with preaching freely: and besides, in those times of the Apo<g ref="char:EOLhyphen"/>stles, they might needs preach freely, for there was no believing Magistrates to esta<g ref="char:EOLhyphen"/>blish them in tithes, or such benefits as is now, and if they would have had such things then, there was no law to get them by, but we have ours established by a law, and by the law of the Nation do we demand them, and not from the Apo<g ref="char:EOLhyphen"/>stles example, and whosoever denies to pay them, denies the law, and the Magi<g ref="char:EOLhyphen"/>strate, and therefore deserves to suffer by the law; and though such suffer the spoiling of their goods, yea the treble value of their tithes, yet they suffer as evil doers.</p>
+               <p>Saith God, thou shaltnot adde any thing to the words that I command thee,<note place="margin">
+                     <hi>Deut.</hi> 4 2</note> neither shalt thou diminish any thing therefrom, for every word of the Lord is<note place="margin">
+                     <hi>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 30. 6</note> pure, &amp; he that adds thereto, shall be reproved and found a lyar, and he that adds<note place="margin">
+                     <hi>Rev</hi> 22. 18.</note> to the words of this book, I will adde to him all the plagues written therein; and he that takes ought therefrom, I will race his name out of the book of life.</p>
+               <p>Saith Antichrist, the Scriptures are a mystery, and are given out darkly, and none can understand them as they are given out, for the Scripture is not to be ta<g ref="char:EOLhyphen"/>ken as it speaks, but according to the meanings of it, which meanings are known to none but the learned, and is found out by comparing one Scripture with ano<g ref="char:EOLhyphen"/>ther, and by adding to them or taking from them, they come to be reconci<g ref="char:EOLhyphen"/>led and the meanings found out, which cannot be by any other means,
+<pb n="8" facs="tcp:114713:5"/> and therefore, they who are to expound the Scriptures, must have the help of learning, books, and studies, and by comparing the judgement of learned fa<g ref="char:EOLhyphen"/>thers, one with another, the best expositions of Scriptures are found out, and owned, and all the rest refused; and this cannot be done but by adding or di<g ref="char:EOLhyphen"/>m<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nishing, for none can infallibly say what is truth, but every one must declare it as he conceives and imagineth of it.</p>
+               <p>Saith Christ, in the old time it was said, thou shalt not forswear (for in<note place="margin">
+                     <hi>Mat</hi> 5. 33, 34, 35, 36, 37</note> the old Covenant swearing in truth was an ordinance of God) but I say, swear not at all, for what is more then yea and nay cometh of evil. And the Apo<g ref="char:EOLhyphen"/>stle who was come into the new Covenant, and did witnesse the oath of God fulfi<g ref="char:EOLhyphen"/>lled, said, above all things my brethren swear not any oath whatsoever, least ye fall into temptation.</p>
+               <p>Saith Antichrist, you may swear the truth, and you will be believed the bet<g ref="char:EOLhyphen"/>ter, and for petty oaths, its not so great a sin; and what needs so much strictnesse, and if God should take vengeance for every oath who should be saved? and what is become of all your forefathers, which were not so scrupulous? are they all dam<g ref="char:EOLhyphen"/>ned? and what if you be commanded to swear by the powers of the world, will you disobey them because Christ forbids it, for though the Apostle forbids the saints to swear at all, yet Paul saith, men verily swear by the greater, and an oath to them is an end of all strife. And thus Antichrist brings the practice of men who live in the worlds Customes to be binding to the Saints, as though Paul by bringing a Comparison from the practise of the men of the world, did contradict the Commands of Christ, and the rest of the Apostles.</p>
+               <p>And thus the serpent who deceived man at the first by contradicting what God had said to Adam, doth still keep man in the fall by the same way, and this is that man of sin, and son of perdition which opposeth God in what he saith, that thereby he may plead for sin, and thus he letteth and keeps from the obedience to God, yea and will let till he be taken out of the way, but he is now re<g ref="char:EOLhyphen"/>vealed<note place="margin">2 <hi>Thes,</hi> 2. 4.</note> by the brightnesse of the appearance of Christ in his Saints, and can be hid no longer, and shall be destroyed by the sword of his mouth. Now consider this priest and people that oppose the kingdome Christ, and plead for sin, some by preaching and printing, some by persecuting with clubs, stones, and prisons, some by railing lying, and false accusing, some by mocking and scorning. And now you are discovered by the light of Christ in all who are guided by it, to be those whom the god of this world hath blind<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and you know not what spirits you are of, neither can you see what it it that acts you thus in rage against the appearance of Christ in purity, and moves you to stand up for the kingdome of sin against those whom Christ hath sent out to cry out against it, and to foretell the destru<g ref="char:EOLhyphen"/>ction of it, and all that uphold it; wherefore repent and turn in your eye to that in your Conscience which is the light of Christ, to let you see what you are doing, and whom you stand for, that so you may be led no longer by that spirit of opposition, but may cast down your crowns at the feet of the Lambe who is now arisen to take the kingdome, least he take you away with his grievous stroke, for if he fall upon you, he will grinde you to powder; fear the Lord ye heathen who call your selves Christians, but know not God and his power; repent while you have time, now you are discovered and warned.</p>
+               <closer>
+                  <signed>J. N.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
